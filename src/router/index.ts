@@ -9,7 +9,7 @@ const AddExerciseView = () => import('../views/AddExerciseView.vue')
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
-    name: 'home',
+    name: 'Dashboard',
     component: DashboardView,
   },
   {
