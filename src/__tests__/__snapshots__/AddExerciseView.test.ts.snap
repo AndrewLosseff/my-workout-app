@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AddExerciseView > renders correctly 1`] = `
+"<div>
+  <div class="d-flex align-center mb-4">
+    <v-btn-stub icon="" class="mr-2"></v-btn-stub>
+    <h1 class="text-h4">Add Exercise to Test Workout</h1>
+  </div>
+  <v-form-stub></v-form-stub>
+</div>"
+`;
