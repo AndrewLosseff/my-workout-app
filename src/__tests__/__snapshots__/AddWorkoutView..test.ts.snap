@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AddWorkoutView > renders correctly 1`] = `
+"<div>
+  <h1 class="text-h4 mb-4">Add New Workout</h1>
+  <v-form>
+    <v-card class="pa-4">
+      <v-row>
+        <v-col cols="12" md="8">
+          <v-text-field modelvalue="" label="Workout Name" rules="(v) => !!v || &quot;Name is required&quot;" required=""></v-text-field>
+          <v-textarea modelvalue="" label="Description" rules="(v) => !!v || &quot;Description is required&quot;" required=""></v-textarea>
+        </v-col>
+        <v-col cols="12" md="4">
+          <v-date-picker-stub label="Workout Date" rules="(v) => !!v || &quot;Date is required&quot;" required=""></v-date-picker-stub>
+        </v-col>
+      </v-row>
+      <v-card-actions>
+        <v-spacer></v-spacer>
+        <v-btn color="primary" type="submit">Save Workout</v-btn>
+        <v-btn color="error">Cancel</v-btn>
+      </v-card-actions>
+    </v-card>
+  </v-form>
+</div>"
+`;

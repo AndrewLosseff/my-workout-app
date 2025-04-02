@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`DashboardView > renders correctly 1`] = `
+"<div data-v-336c5134="">
+  <h1 data-v-336c5134="" class="text-h4 mb-4">Your Workouts</h1>
+  <v-alert-stub data-v-336c5134="" class="mb-4" type="info" text="You don't have any workouts yet. Add your first workout to get started!"></v-alert-stub>
+  <v-row-stub data-v-336c5134=""></v-row-stub>
+</div>"
+`;
