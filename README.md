@@ -1,6 +1,6 @@
 # my-workout-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Deployed to [Netlify](https://effervescent-nougat-abd796.netlify.app)
 
 ## Recommended IDE Setup
 
